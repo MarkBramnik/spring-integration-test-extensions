@@ -9,6 +9,19 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+#IntelliJ internal files:
+.idea/
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+*.iml
+*.ipr
+*.iws
+
+## Maven module's target folder 
+**/target/
 
 # Package Files #
 *.jar
